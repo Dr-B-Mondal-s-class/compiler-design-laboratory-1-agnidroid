@@ -17,15 +17,17 @@
 # Lab Work
 | Sr. No. | Description | Folder |
 | :---:  | :---: | :---: |
-| 1. | Lab 1  | [ Link ]()   |
-| 2. | Lab 2  | [Link]()  |
-| 3. | Lab 3  | [Link]()   |
-| 4. | Lab 4  |[Link]()  |
-| 5. | Lab 5  |[Link]()  |
-| 6. | Lab 6  |[Link]()  |
-| 7. | Lab 7  |[Link]() |
-| 8. | Lab 8  | [Link]() |
-|9. | Lab 9  | [Link]() |
+| 1. | Lab 1  | [ Link ](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-agnidroid/tree/main/LAB%201)   |
+
+
+| 2. | Lab 2  | [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-agnidroid/tree/main/LAB%202)  |
+| 3. | Lab 3  | [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-agnidroid/tree/main/LAB%203)   |
+| 4. | Lab 4  |[Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-agnidroid/tree/main/LAB%204)  |
+| 5. | Lab 5  |[Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-agnidroid/tree/main/LAB%205)  |
+| 6. | Lab 6  |[Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-agnidroid/tree/main/LAB%206)  |
+| 7. | Lab 7  |[Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-agnidroid/tree/main/LAB%207) |
+| 8. | Lab 8  | [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-agnidroid/tree/main/LAB%208) |
+|9. | Lab 9  | [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-agnidroid/tree/main/LAB%209/9.1) |
 
 
 
