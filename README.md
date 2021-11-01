@@ -18,8 +18,6 @@
 | Sr. No. | Description | Folder |
 | :---:  | :---: | :---: |
 | 1. | Lab 1  | [ Link ](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-agnidroid/tree/main/LAB%201)   |
-
-
 | 2. | Lab 2  | [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-agnidroid/tree/main/LAB%202)  |
 | 3. | Lab 3  | [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-agnidroid/tree/main/LAB%203)   |
 | 4. | Lab 4  |[Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-agnidroid/tree/main/LAB%204)  |
